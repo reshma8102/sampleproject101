@@ -1,0 +1,120 @@
+body {font-family: Arial;}
+.btn{
+  background-color: lightseagreen;
+  color: white;
+}
+.tab {
+  overflow: hidden;
+  border: 1px solid lightseagreen;
+  background-color: lightseagreen;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: lightseagreen;
+  float: left;
+  border: lightseagreen;
+  outline: lightseagreen;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: white;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: lightseagreen;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+.rrr{
+  background-color: lightseagreen;
+  color: white;
+}
+.def h2{color: lightseagreen;
+background-color: aliceblue;}
+.def{color: lightseagreen;
+background-color: aliceblue;}
+.jkl h2{color: lightseagreen;
+background-color: aliceblue;}
+.jkl{color: lightseagreen;
+background-color: aliceblue;}
+.abc h2{color: lightseagreen;
+background-color: aliceblue;}
+.abc h1{color: lightseagreen;
+background-color: aliceblue;}
+.abc{color: lightseagreen;
+background-color: aliceblue;}
+.ghi{background-color:lightseagreen;
+border-radius: 10%;
+padding: 10px 15px;
+text-align: center;
+display: inline-block;
+font-size: 10px;
+margin-top: 20px;}
+.ghi h2{color: lightseagreen;
+background-color: aliceblue;}
+.ghi h3{color: lightseagreen;
+background-color: aliceblue;}
+.ghi{color: lightseagreen;
+background-color: aliceblue;}
+.reshma1{background-color: lightpink;
+padding: 25px;
+border-radius: 25px;
+margin: 5px;}
+.reshma2{background-color: lightblue;
+padding: 25px;
+border-radius: 25px;
+margin: 5px;}
+.reshma3{background-color: orange;
+padding: 25px;
+border-radius: 25px;
+margin: 5px;}
+.reshma4{background-color: yellowgreen;
+padding: 25px;
+border-radius: 25px;
+margin: 5px;}
+.reshma5{background-color: peachpuff;
+padding: 25px;
+border-radius: 25px;
+margin: 5px;}
+.reshma6{background-color: cadetblue;
+padding: 25px;
+border-radius: 25px;
+margin: 5px;}
+
+.fa-linkedin {
+  background-color: white;
+  color:lightseagreen;
+  padding: 0px;
+}
+
+.fa-instagram {
+ background-color: white;
+  color:lightseagreen;
+  padding: 0px;
+
+}
+.fa-youtube {
+  background-color: white;
+  color:lightseagreen;
+  padding: 0px;
+
+}
+.fa-pinterest {
+  background-color: white;
+  color:lightseagreen;
+  padding: 0px;
+
+}
